@@ -1,10 +1,5 @@
 package test.esurovskiy;
 
-/**
- * TODO: write javadoc
- *
- * @author Evgeniy Surovskiy
- */
 public enum EMyDirection {
     NORTH(1),
     EAST(2),
